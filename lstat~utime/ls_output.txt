@@ -1,0 +1,177 @@
+합계 9880
+-rwxr-xr-x 1 root root 1017016  4월 24  2014 bash
+-rwxr-xr-x 1 root root   31152 10월 21  2013 bunzip2
+-rwxr-xr-x 1 root root 1918032 11월 15  2013 busybox
+-rwxr-xr-x 1 root root   31152 10월 21  2013 bzcat
+lrwxrwxrwx 1 root root       6  5월 18 20:33 bzcmp -> bzdiff
+-rwxr-xr-x 1 root root    2140 10월 21  2013 bzdiff
+lrwxrwxrwx 1 root root       6  5월 18 20:33 bzegrep -> bzgrep
+-rwxr-xr-x 1 root root    4877 10월 21  2013 bzexe
+lrwxrwxrwx 1 root root       6  5월 18 20:33 bzfgrep -> bzgrep
+-rwxr-xr-x 1 root root    3642 10월 21  2013 bzgrep
+-rwxr-xr-x 1 root root   31152 10월 21  2013 bzip2
+-rwxr-xr-x 1 root root   14480 10월 21  2013 bzip2recover
+lrwxrwxrwx 1 root root       6  5월 18 20:33 bzless -> bzmore
+-rwxr-xr-x 1 root root    1297 10월 21  2013 bzmore
+-rwxr-xr-x 1 root root   47904  3월 24  2014 cat
+-rwxr-xr-x 1 root root   14688  5월 23  2013 chacl
+-rwxr-xr-x 1 root root   60160  3월 24  2014 chgrp
+-rwxr-xr-x 1 root root   56032  3월 24  2014 chmod
+-rwxr-xr-x 1 root root   60160  3월 24  2014 chown
+-rwxr-xr-x 1 root root   10480  2월 18  2013 chvt
+-rwxr-xr-x 1 root root  130304  3월 24  2014 cp
+-rwxr-xr-x 1 root root  137272  6월  2  2013 cpio
+-rwxr-xr-x 1 root root  121272  2월 19  2014 dash
+-rwxr-xr-x 1 root root   64256  3월 24  2014 date
+-rwxr-xr-x 1 root root   10536  7월  4  2014 dbus-cleanup-sockets
+-rwxr-xr-x 1 root root  429936  7월  4  2014 dbus-daemon
+-rwxr-xr-x 1 root root   10464  7월  4  2014 dbus-uuidgen
+-rwxr-xr-x 1 root root   56136  3월 24  2014 dd
+-rwxr-xr-x 1 root root   97736  3월 24  2014 df
+-rwxr-xr-x 1 root root  110080  3월 24  2014 dir
+-rwxr-xr-x 1 root root   22896  6월  4  2014 dmesg
+lrwxrwxrwx 1 root root       8  5월 18 20:33 dnsdomainname -> hostname
+lrwxrwxrwx 1 root root       8  5월 18 20:33 domainname -> hostname
+-rwxr-xr-x 1 root root   82256  2월 18  2013 dumpkeys
+-rwxr-xr-x 1 root root   31296  3월 24  2014 echo
+-rwxr-xr-x 1 root root   47712  7월 17  2013 ed
+-rwxr-xr-x 1 root root  183696  1월 19  2014 egrep
+-rwxr-xr-x 1 root root   27168  3월 24  2014 false
+-rwxr-xr-x 1 root root   10488  2월 18  2013 fgconsole
+-rwxr-xr-x 1 root root  138352  1월 19  2014 fgrep
+-rwxr-xr-x 1 root root   36144  6월  4  2014 findmnt
+-rwxr-xr-x 1 root root   31864 11월 30  2012 fuser
+-rwsr-xr-x 1 root root   30800 12월 16  2013 fusermount
+-rwxr-xr-x 1 root root   23688  5월 23  2013 getfacl
+-rwxr-xr-x 1 root root  191952  1월 19  2014 grep
+-rwxr-xr-x 1 root root    2303  1월 10  2014 gunzip
+-rwxr-xr-x 1 root root    5937  1월 10  2014 gzexe
+-rwxr-xr-x 1 root root   94048  1월 10  2014 gzip
+-rwxr-xr-x 1 root root   14736 12월 13  2013 hostname
+-rwxr-xr-x 1 root root  307328  2월 17  2014 ip
+-rwxr-xr-x 1 root root   10480  2월 18  2013 kbd_mode
+-rwxr-xr-x 1 root root   23088  1월  7  2014 kill
+-rwxr-xr-x 1 root root  154616  4월 10  2014 kmod
+-rwxr-xr-x 1 root root  153664  6월 10  2013 less
+-rwxr-xr-x 1 root root   10440  6월 10  2013 lessecho
+lrwxrwxrwx 1 root root       8  5월 18 20:33 lessfile -> lesspipe
+-rwxr-xr-x 1 root root   15912  6월 10  2013 lesskey
+-rwxr-xr-x 1 root root    7758  6월 10  2013 lesspipe
+-rwxr-xr-x 1 root root   56072  3월 24  2014 ln
+-rwxr-xr-x 1 root root  111432  2월 18  2013 loadkeys
+-rwxr-xr-x 1 root root   49136  2월 17  2014 login
+-rwxr-xr-x 1 root root   92328  6월 20  2014 loginctl
+-rwxr-xr-x 1 root root   63912 12월 19  2013 lowntfs-3g
+-rwxr-xr-x 1 root root  110080  3월 24  2014 ls
+-rwxr-xr-x 1 root root   44688  6월  4  2014 lsblk
+lrwxrwxrwx 1 root root       4  5월 18 20:33 lsmod -> kmod
+-rwxr-xr-x 1 root root   51936  3월 24  2014 mkdir
+-rwxr-xr-x 1 root root   35456  3월 24  2014 mknod
+-rwxr-xr-x 1 root root   39648  3월 24  2014 mktemp
+-rwxr-xr-x 1 root root   39600  6월  4  2014 more
+-rwsr-xr-x 1 root root   94792  6월  4  2014 mount
+-rwxr-xr-x 1 root root   10456  3월 13  2014 mountpoint
+lrwxrwxrwx 1 root root      20  5월 18 20:33 mt -> /etc/alternatives/mt
+-rwxr-xr-x 1 root root   68760  6월  2  2013 mt-gnu
+-rwxr-xr-x 1 root root  122088  3월 24  2014 mv
+-rwxr-xr-x 1 root root  192008 10월  1  2012 nano
+lrwxrwxrwx 1 root root      20  5월 18 20:33 nc -> /etc/alternatives/nc
+-rwxr-xr-x 1 root root   31248 12월  4  2012 nc.openbsd
+lrwxrwxrwx 1 root root      24  5월 18 20:33 netcat -> /etc/alternatives/netcat
+-rwxr-xr-x 1 root root  119624 12월  8  2013 netstat
+lrwxrwxrwx 1 root root       8  5월 18 20:33 nisdomainname -> hostname
+-rwxr-xr-x 1 root root   59848 12월 19  2013 ntfs-3g
+-rwxr-xr-x 1 root root   10312 12월 19  2013 ntfs-3g.probe
+-rwxr-xr-x 1 root root   67608 12월 19  2013 ntfs-3g.secaudit
+-rwxr-xr-x 1 root root   18432 12월 19  2013 ntfs-3g.usermap
+-rwxr-xr-x 1 root root   26728 12월 19  2013 ntfscat
+-rwxr-xr-x 1 root root   30752 12월 19  2013 ntfsck
+-rwxr-xr-x 1 root root   30824 12월 19  2013 ntfscluster
+-rwxr-xr-x 1 root root   34920 12월 19  2013 ntfscmp
+-rwxr-xr-x 1 root root   22528 12월 19  2013 ntfsdump_logfile
+-rwxr-xr-x 1 root root   39024 12월 19  2013 ntfsfix
+-rwxr-xr-x 1 root root   55416 12월 19  2013 ntfsinfo
+-rwxr-xr-x 1 root root   31928 12월 19  2013 ntfsls
+-rwxr-xr-x 1 root root   26672 12월 19  2013 ntfsmftalloc
+-rwxr-xr-x 1 root root   30824 12월 19  2013 ntfsmove
+-rwxr-xr-x 1 root root   34856 12월 19  2013 ntfstruncate
+-rwxr-xr-x 1 root root   43632 12월 19  2013 ntfswipe
+lrwxrwxrwx 1 root root       6  5월 18 20:33 open -> openvt
+-rwxr-xr-x 1 root root   18912  2월 18  2013 openvt
+lrwxrwxrwx 1 root root      14  5월 18 20:33 pidof -> /sbin/killall5
+-rwsr-xr-x 1 root root   44168  5월  8  2014 ping
+-rwsr-xr-x 1 root root   44680  5월  8  2014 ping6
+-rwxr-xr-x 1 root root   35448  4월 12  2014 plymouth
+-rwxr-xr-x 1 root root   31608  4월 12  2014 plymouth-upstart-bridge
+-rwxr-xr-x 1 root root   93232  1월  7  2014 ps
+-rwxr-xr-x 1 root root   31392  3월 24  2014 pwd
+lrwxrwxrwx 1 root root       4  5월 18 20:33 rbash -> bash
+-rwxr-xr-x 1 root root   39528  3월 24  2014 readlink
+-rwxr-xr-x 1 root root      89  7월 17  2013 red
+-rwxr-xr-x 1 root root   60160  3월 24  2014 rm
+-rwxr-xr-x 1 root root   43648  3월 24  2014 rmdir
+lrwxrwxrwx 1 root root       4  5월 18 20:33 rnano -> nano
+-rwxr-xr-x 1 root root   19248  8월 28  2013 run-parts
+-rwxr-xr-x 1 root root     254  7월 18  2014 running-in-container
+-rwxr-xr-x 1 root root   73352  2월 13  2014 sed
+-rwxr-xr-x 1 root root   36232  5월 23  2013 setfacl
+-rwxr-xr-x 1 root root   39896  2월 18  2013 setfont
+-rwxr-xr-x 1 root root   12052  1월 29  2014 setupcon
+lrwxrwxrwx 1 root root       4  5월 18 20:33 sh -> dash
+lrwxrwxrwx 1 root root       4  5월 18 20:33 sh.distrib -> dash
+-rwxr-xr-x 1 root root   31296  3월 24  2014 sleep
+-rwxr-xr-x 1 root root   76624  2월 17  2014 ss
+lrwxrwxrwx 1 root root       7  5월 18 20:33 static-sh -> busybox
+-rwxr-xr-x 1 root root   68256  3월 24  2014 stty
+-rwsr-xr-x 1 root root   36936  2월 17  2014 su
+-rwxr-xr-x 1 root root   27200  3월 24  2014 sync
+-rwxr-xr-x 1 root root   14720  6월  4  2014 tailf
+-rwxr-xr-x 1 root root  353840  2월  4  2014 tar
+-rwxr-xr-x 1 root root   10344  8월 28  2013 tempfile
+-rwxr-xr-x 1 root root   60224  3월 24  2014 touch
+-rwxr-xr-x 1 root root   27168  3월 24  2014 true
+-rwxr-xr-x 1 root root  248040  6월 20  2014 udevadm
+-rwxr-xr-x 1 root root   14336 12월 16  2013 ulockmgr_server
+-rwsr-xr-x 1 root root   69120  6월  4  2014 umount
+-rwxr-xr-x 1 root root   31360  3월 24  2014 uname
+-rwxr-xr-x 1 root root    2303  1월 10  2014 uncompress
+-rwxr-xr-x 1 root root    2762  2월 18  2013 unicode_start
+-rwxr-xr-x 1 root root  110080  3월 24  2014 vdir
+-rwxr-xr-x 1 root root    6248  2월  5  2014 vmmouse_detect
+-rwxr-xr-x 1 root root     946  8월 28  2013 which
+-rwxr-xr-x 1 root root   27368  3월 24  2014 whiptail
+lrwxrwxrwx 1 root root       8  5월 18 20:33 ypdomainname -> hostname
+-rwxr-xr-x 1 root root    1939  1월 10  2014 zcat
+-rwxr-xr-x 1 root root    1779  1월 10  2014 zcmp
+-rwxr-xr-x 1 root root    5766  1월 10  2014 zdiff
+-rwxr-xr-x 1 root root     142  1월 10  2014 zegrep
+-rwxr-xr-x 1 root root     142  1월 10  2014 zfgrep
+-rwxr-xr-x 1 root root    2133  1월 10  2014 zforce
+-rwxr-xr-x 1 root root    5940  1월 10  2014 zgrep
+-rwxr-xr-x 1 root root    2039  1월 10  2014 zless
+-rwxr-xr-x 1 root root    1912  1월 10  2014 zmore
+-rwxr-xr-x 1 root root    5049  1월 10  2014 znew
+합계 20
+drwxr-xr-x 16 linux linux 4096  5월 26 08:56 linux
+drwxr-xr-x  3 root  root  4096  5월 19 14:11 u1201
+drwxr-xr-x 15 user1 user1 4096  5월 22 08:47 user1
+drwxr-xr-x  5 user3 user3 4096  5월 27 14:17 user3
+drwxr-xr-x  3 user4 user4 4096  5월 27 10:06 user4
+합계 20
+drwxr-xr-x 16 linux linux 4096  5월 26 08:56 linux
+drwxr-xr-x  3 root  root  4096  5월 19 14:11 u1201
+drwxr-xr-x 15 user1 user1 4096  5월 22 08:47 user1
+drwxr-xr-x  5 user3 user3 4096  5월 27 14:17 user3
+drwxr-xr-x  3 user4 user4 4096  5월 27 10:06 user4
+합계 20
+drwxr-xr-x 16 linux linux 4096  5월 26 08:56 linux
+drwxr-xr-x  3 root  root  4096  5월 19 14:11 u1201
+drwxr-xr-x 15 user1 user1 4096  5월 22 08:47 user1
+drwxr-xr-x  5 user3 user3 4096  5월 27 14:17 user3
+drwxr-xr-x  3 user4 user4 4096  5월 27 10:06 user4
+합계 20
+drwxr-xr-x 16 linux linux 4096  5월 26 08:56 linux
+drwxr-xr-x  3 root  root  4096  5월 19 14:11 u1201
+drwxr-xr-x 15 user1 user1 4096  5월 22 08:47 user1
+drwxr-xr-x  5 user3 user3 4096  5월 27 14:17 user3
+drwxr-xr-x  3 user4 user4 4096  5월 27 10:06 user4

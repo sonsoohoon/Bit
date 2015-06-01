@@ -1,0 +1,7 @@
+합계 20
+-rw-r--r-- 1 root root    2  5월 20 14:28 abc
+-rw-r--r-- 1 root root   13  5월 20 14:30 abcc
+-rw-r--r-- 1 root root    0  5월 20 15:23 ls-output.txt
+-rw-r--r-- 1 root root  256  5월 20 15:16 ls.txt
+drwxr-xr-x 4 root root 4096  5월 20 15:08 playground
+drwxr-xr-x 2 root root 4096  5월 20 14:37 sub

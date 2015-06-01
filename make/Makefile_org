@@ -1,0 +1,11 @@
+SRCS = $(wildcard *.c)
+
+OBJECT = $(SRCS: .C = .O)
+
+all:test
+test : $(OBJECT)
+	$(CC) -o $@ $^
+
+clean :
+	rm -rf *.o
+

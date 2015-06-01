@@ -1,0 +1,6 @@
+/temp/aaa/bbb/target.o : /home/u1201/make/3/test.c
+
+	@echo ${@F}
+	@echo ${<F}
+	@echo ${@D}
+	@echo ${<D}

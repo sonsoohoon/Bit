@@ -1,0 +1,4 @@
+1 6.00 aaa
+2 7.00 bbb
+3 9.00 ccc
+S_ISDIR
