@@ -6,6 +6,7 @@ int main()
 {
 	int fd;
 	int ret;
+	int test;
 	char buff[1];
 
 	mkfifo("myfifo",0666);
